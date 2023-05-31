@@ -8,7 +8,6 @@
 
  - During the short time I’ve been in the boot camp, I have gained proficiency in the basics of HTML, CSS, JavaScript, and APIs. Despite being new to this field, and still learning, I am doing my best to apply the skills I have acquired to the exercises, projects, and homework assignments.
 
-I hope to have my projects stand out through the creative use of tools we learned throughout the Boot Camp, resulting in well crafted and professional designs.
 
 ![image](./images/Screenshot%202023-05-30%20at%208.13.57%20PM.png)
 ![image](./images/Screenshot%202023-05-30%20at%208.14.11%20PM.png)
