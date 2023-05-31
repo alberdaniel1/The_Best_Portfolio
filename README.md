@@ -1,4 +1,4 @@
-- #The Best Porfolio
+- # The Best Porfolio
 
  - My motivation for creating my portfolio was to develop an easy to use web application that effectively showcases my potential and commitment to excellence. I aim to demonstrate my prior achievements, while highlighting the newly acquired skills gained from the Boot Camp.
 
